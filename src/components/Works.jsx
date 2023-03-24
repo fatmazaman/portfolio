@@ -2,11 +2,12 @@ import React from "react";
 import Tilt from "react-tilt";
 import { motion } from "framer-motion";
 
-import { styles } from "../../project_3D_developer_portfolio/src/styles";
+import { styles } from "../styles";
 import { github } from "../assets";
-import { SectionWrapper } from "../../project_3D_developer_portfolio/src/hoc";
+import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
-import { fadeIn, textVariant } from "../../project_3D_developer_portfolio/src/utils/motion";
+import { fadeIn, textVariant } from "../utils/motion";
+
 
 const ProjectCard = ({
   index,

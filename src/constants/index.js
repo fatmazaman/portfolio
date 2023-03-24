@@ -10,7 +10,7 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
+  nodejs, 
   mongodb,
   git,
   figma,
@@ -42,15 +42,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Senior Software Engineer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Software Engineer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Software System Engineer",
     icon: backend,
   },
   {
